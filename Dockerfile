@@ -14,4 +14,4 @@ RUN npm install
 COPY . .
 
 # Set the command to run your Node.js application
-CMD ["node", "app.js"]
+CMD ["node", "test.js"]
